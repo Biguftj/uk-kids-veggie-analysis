@@ -15,5 +15,7 @@ We use data from the **National Diet and Nutrition Survey (NDNS)**, Years 12–1
 
 ---
 
-## Project Structure
 
+## Visual: Vegetable Portions by Age Group
+
+![Vegetable Portions by Age Group](visuals/veg_portions_by_age_group.png)
