@@ -1,0 +1,39 @@
+National Diet and Nutrition Survey (NDNS) Year 12 to 15 UK chapter 4 tables,Unnamed: 1
+This spreadsheet contains 23 worksheets. ,
+Notes,
+Source: National Diet and Nutrition Survey. Results from Years 1 to 15 (2008 to 2023). Data available from the UK Data Service.,
+The data used in the report have been weighted. The weighting is described in Appendix B of this report. Unweighted sample sizes are shown at the foot of each table. ,
+The NDNS requires weights to adjust for differences in sample selection and response. The weights adjust for:,
+"·         differential selection probabilities of addresses, households and individuals ",
+·         non-response to the individual questionnaire ,
+·         non-response to completing Intake24,
+The data were analysed using the survey package in the statistical software R (version 3.6.1). For a full explanation of the analytical approach see Appendix U.,
+"Because of rounding, row or column percentages may not add exactly to 100%.",
+"A percentage may be quoted in the text for a single category that aggregates two or more of the percentages shown in a table. The percentage for the single category may, because of rounding, differ by one percentage point from the sum of the percentages in the table.",
+"Values for arithmetic means, geometric means, medians, percentiles and standard deviations and standard errors are shown to an appropriate number of decimal places. For reasons of space, Standard Error may sometimes be abbreviated to SE and Standard Deviation to SD.",
+"‘Missing values’ occur for several reasons, including refusal or inability to answer a particular question; refusal to co-operate in an entire section of the survey (such as the nurse visit or a self-completion questionnaire); and cases where the question is not applicable to the participant.",
+Table of contents,
+Topic of each worksheet,Link to each worksheet
+"Total quantities of food consumed (grams) per day: male (including non-consumers), by age (Years 12 to 15 combined)",Worksheet 4.1a
+"Total quantities of food consumed (grams) per day: female (including non-consumers), by age (Years 12 to 15 combined)",Worksheet 4.1b
+"Total quantities of food consumed (grams) per day: all (including non-consumers), by age (Years 12 to 15 combined)",Worksheet 4.1c
+"Total quantities of food consumed (grams) per day: male consumers, by age (Years 12 to 15 combined)",Worksheet 4.2a
+"Total quantities of food consumed (grams) per day: female consumers, by age (Years 12 to 15 combined)",Worksheet 4.2b
+"Total quantities of food consumed (grams) per day: all consumers, by age (Years 12 to 15 combined)",Worksheet 4.2c
+"5 A Day fruit and vegetable portions (portions/day) and % achieving 5 A Day fruit and vegetable portions (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.3a
+% achieving 5 A Day fruit and vegetable portions (including non-consumers) by NDNS survey years and combined child/adult age groups,Worksheet 4.3b
+"Total fruit and vegetables (not including juice) (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.4
+"Total fruit (not including juice) (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.5
+"Total vegetables (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.6
+"Fruit juice (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.7
+"Red and processed meat (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.8
+"White meat (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.9
+"Total meat (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.10
+"Oily fish (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.11
+"Total fish (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.12
+"Sugar-sweetened soft drinks (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.13
+"Sugar confectionery (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.14
+"Chocolate confectionery (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.15
+"Sweet/savoury biscuits and cereal bars (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.16
+"Buns, cakes and pastries (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.17
+"Crisps and other savoury snacks (g/day) consumption (including non-consumers) by NDNS survey years, age and sex",Worksheet 4.18
