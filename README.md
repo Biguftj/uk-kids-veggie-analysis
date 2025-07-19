@@ -14,11 +14,12 @@ This project explores UK National Diet and Nutrition Survey (NDNS) data (2019–
 - **Healthy habits do not strongly persist** into adulthood — public health interventions are needed.
 
 
-## 📈 Sample Visual
+### Fruit Juice Intake – Children Aged 1.5 to 3 Years
 
-### Vegetable Intake – Boys Aged 4–10
+![Fruit Juice Intake Scatter](./visuals/fruit_juice_intake_children_1_3_scatter.png)
 
-![Veg Intake Boys 4–10](./visuals/veg_intake_boys_4to10.png)
+This visual tracks the average daily intake of fruit juice (grams) for children aged 1.5 to 3 years, based on NDNS 2008–2023 data.  
+It helps illustrate long-term consumption trends and potential impact of public health messaging or policy shifts.
 
 ---
 
@@ -32,12 +33,12 @@ Data from the UK National Diet and Nutrition Survey:
 ## Author
 
 **BP**  
-_Senior Data Analyst passionate about health, nonprofits, and turning data into impact._  
+Senior Data Analyst  
 [GitHub](https://github.com/Biguftj)
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 If you're interested in collaborations, data storytelling, or nonprofit impact analysis — feel free to connect!
 
